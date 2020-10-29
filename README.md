@@ -1,1 +1,1 @@
-# https://basics-of-all.github.io # so
+# https://basics-of-all.github.io/
